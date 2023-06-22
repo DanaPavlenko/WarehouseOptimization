@@ -1,2 +1,2 @@
-# WarehouseOptimization
-Service of the logistics provider warehouse work optimization using pattern MVC (Model-View-Controller).
+# Warehouse Optimization Service
+Service of the logistics provider warehouse work optimization using pattern MVC (Model-View-Controller). This system has a client-server architecture. Correct communication with the database and the user interface is ensured, and the process of logistics warehouse operation was developed. Also, an analysis of algorithms to realize the optimal location of goods was done and the most effective one was selected.
